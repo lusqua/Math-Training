@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Math-Training/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Math-Training/static/js/main.726a0392.chunk.js",
+    "main.js.map": "/Math-Training/static/js/main.726a0392.chunk.js.map",
+    "runtime-main.js": "/Math-Training/static/js/runtime-main.fc37aa99.js",
+    "runtime-main.js.map": "/Math-Training/static/js/runtime-main.fc37aa99.js.map",
+    "static/js/2.82f639e7.chunk.js": "/Math-Training/static/js/2.82f639e7.chunk.js",
+    "static/js/2.82f639e7.chunk.js.map": "/Math-Training/static/js/2.82f639e7.chunk.js.map",
+    "static/js/3.9fbaa076.chunk.js": "/Math-Training/static/js/3.9fbaa076.chunk.js",
+    "static/js/3.9fbaa076.chunk.js.map": "/Math-Training/static/js/3.9fbaa076.chunk.js.map",
+    "index.html": "/Math-Training/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Math-Training/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.82f639e7.chunk.js.LICENSE.txt": "/Math-Training/static/js/2.82f639e7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Math-Training/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc37aa99.js",
+    "static/js/2.82f639e7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.726a0392.chunk.js"
+  ]
+}
